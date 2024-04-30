@@ -1,0 +1,7 @@
+.image{
+    width: 90%;
+    height: auto;
+    border-radius: 10%;
+    border-bottom: 0.3rem solid #e0d4cc;
+    border-left: 0.3rem solid #e0d4cc;
+}

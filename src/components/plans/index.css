@@ -1,0 +1,22 @@
+.container-plans {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #dfbeb1;
+    border-bottom: 0.3rem solid #e0d4cc;
+    border-left: 0.3rem solid #e0d4cc;
+    width: 35%;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+    
+}
+
+.container-global{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
